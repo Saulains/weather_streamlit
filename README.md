@@ -1,4 +1,4 @@
-# Streamlit Demo
+# Weather Streamlit
 
 This project demonstrates how to present a data analysis and monitoring solution as a web application using the Streamlit framework.  
 The data used in this repository contains historical temperature observations for multiple cities and current weather data retrieved via the OpenWeatherMap API.
